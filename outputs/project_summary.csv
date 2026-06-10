@@ -1,2 +1,0 @@
-Dataset,Samples,Features,Feature Names,Best Model,Test Accuracy,Test Precision,Test Recall,Test F1,Test ROC AUC
-..\apple_quality.csv,4000,7,"Size, Weight, Sweetness, Crunchiness, Juiciness, Ripeness, Acidity",KNN,0.88625,0.8867833533653845,0.88625,0.8862046572592936,0.9445965287283046

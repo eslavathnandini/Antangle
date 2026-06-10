@@ -67,6 +67,11 @@ Thumbs.db
 # Windows
 $RECYCLE.BIN/
 
+# Generated outputs
+outputs/
+*.pkl
+*.png
+
 # Project specific
 *.log
 temp/
